@@ -1,0 +1,22 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrevk/react-sceleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrevk/react-sceleton/issues"
+  },
+  "homepage": "https://github.com/alexandrevk/react-sceleton#readme",
+  "dependencies": {
+    "babelfy": "^1.1.0"
+  }
+}
