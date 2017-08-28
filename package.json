@@ -1,22 +1,26 @@
 {
-  "name": "react-skeleton",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexandrevk/react-sceleton.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alexandrevk/react-sceleton/issues"
-  },
-  "homepage": "https://github.com/alexandrevk/react-sceleton#readme",
-  "dependencies": {
-    "babelfy": "^1.1.0"
-  }
+    "name": "react-skeleton",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alexandrevk/react-sceleton.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alexandrevk/react-sceleton/issues"
+    },
+    "homepage": "https://github.com/alexandrevk/react-sceleton#readme",
+    "dependencies": {
+        "babel-preset-react": "^6.24.1",
+        "babelify": "^7.3.0",
+        "react": "^15.6.1",
+        "react-dom": "^15.6.1",
+        "watchify": "^3.9.0"
+    }
 }
