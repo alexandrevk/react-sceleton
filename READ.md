@@ -1,1 +1,0 @@
-https://github.com/alexandrevk/react-sceleton.git
